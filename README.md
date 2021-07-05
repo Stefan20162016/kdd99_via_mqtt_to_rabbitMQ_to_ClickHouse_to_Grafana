@@ -3,6 +3,9 @@
 
 - kdd99 via mqtt to rabbitMQ to ClickHouse to Grafana Dashboard :)
 
+![workflow](arrowsapp2.png)
+
+
 - go to src -> run ./COMPILE.sh
 - install/setup ClickHouse
 - install/setup RabbitMQ
