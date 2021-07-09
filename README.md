@@ -1,10 +1,12 @@
-# kdd99_via_mqtt_to_rabbitMQ_to_ClickHouse_to_Grafana
+# The kdd99_via_mqtt_to_rabbitMQ_to_ClickHouse_to_Grafana Project:
 
-# use kdd99 features to display Dashboard of features and/or Destination IPs on the world-map plugin of Grafana
+## main purpose is to use kdd99 features in Grafana-Dashboards
+## the features themselves and the Destination IPs on the worldmap plugin of Grafana
+## TODO: use stored features in ClickHouse to convert to parquet for VAE or GAN anomaly detection
 
 ![Worldmap](worldmap/worldmap.png)
 
-- kdd99 via mqtt to rabbitMQ to ClickHouse to Grafana Dashboard :)
+- TL;DR: kdd99 via mqtt to rabbitMQ to ClickHouse to Grafana Dashboard :)
 
 ![workflow](arrowsapp2.png)
 
